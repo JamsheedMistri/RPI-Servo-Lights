@@ -11,5 +11,5 @@ sh /path/to/build.sh
 sudo /path/to/run <args>
 ```
 **Allowed Arguments**
-0 — off
-1 — on
+* 0 — off
+* 1 — on
